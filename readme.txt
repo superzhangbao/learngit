@@ -6,3 +6,4 @@ Git has a mutable index called stage.
 上传到github
 dev分支
 Creating a new branch is quick and simple.
+add merge
